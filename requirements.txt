@@ -1,0 +1,5 @@
+streamlit
+pandas
+plotly
+numpy
+openpyxl  # para exportar a Excel (opcional, si se añade)
