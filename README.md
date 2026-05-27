@@ -1,6 +1,6 @@
 # Aplicación de Finanzas Personales
 
-Esta aplicación te permite llevar un control de tus ingresos y gastos, visualizar gráficas interactivas y obtener alertas sobre tu salud financiera.
+Aplicación de escritorio para el control total de tus finanzas personales, inspirada en herramientas como Monefy, Emma y Plum. Permite registrar ingresos y gastos, establecer presupuestos, automatizar ahorros, gestionar deudas y visualizar estadísticas y gráficos, todo sin necesidad de conexión a internet ni IA externa.
 
 ## Requisitos previos
 
